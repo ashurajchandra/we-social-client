@@ -1,0 +1,9 @@
+//IN FUTURE WE WILL FETCH THE POSTS OF USER AS WELL AS FRIENDS OF USER TO SHOW ON FEED
+
+export const GET_POSTS = "GET_POSTS";
+export const ADD_POST = "ADD_POST";
+export const EDIT_POST = "EDIT_POST";
+export const DELETE_POST = "DELETE_POST";
+export const IS_LOADING = "IS_LOADING";
+export const REFETCH_POST = "REFETCH_POST";
+export const TOTAL_COUNT = "TOTAL_COUNT";
